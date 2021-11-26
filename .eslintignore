@@ -1,0 +1,4 @@
+*.config.js
+*custom.d.ts
+*jest.config.js
+*jest.setup.ts
